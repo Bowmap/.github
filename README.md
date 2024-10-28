@@ -1,1 +1,3 @@
-# .github
+# Bowmap
+
+WIP Minecraft Server!
